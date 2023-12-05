@@ -7,7 +7,7 @@ Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de En
 ## 🛠️ Linguagens e Tecnologias
 
 - 💻 Conhecimento sólido em Java, Python, JavaScript e SQL
-- 🌐 Desenvolvimento web com HTML, CSS, Node.js.
+- 🌐 Desenvolvimento web com HTML, CSS, JSP/SERVLET.
 - 📱 Experiência em desenvolvimento mobile com Java.
 
 ## 📚 Formação Acadêmica
