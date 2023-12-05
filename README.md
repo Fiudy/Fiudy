@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Olá, sou [Guilherme Carvalho], um apaixonado por programação e entusiasta de Engenharia de Software. Atualmente, estou cursando Engenharia de Software e explorando o vasto mundo do desenvolvimento de software.
+Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de Engenharia de Software. Atualmente, estou cursando Engenharia de Software e explorando o vasto mundo do desenvolvimento de software.
 
 ## 🛠️ Linguagens e Tecnologias
 
@@ -12,7 +12,7 @@ Olá, sou [Guilherme Carvalho], um apaixonado por programação e entusiasta de 
 
 ## 📚 Formação Acadêmica
 
-- 🎓 Estudante de Engenharia de Software na [Universidade Católica de Salvador].
+- 🎓 Estudante de Engenharia de Software na Universidade Católica de Salvador.
 
 ## 🤝 Vamos Conectar!
 
