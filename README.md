@@ -16,9 +16,9 @@ Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de En
 
 ## 🤝 Vamos Conectar!
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/guilherme-carvalho-bbb584215/))
-- 🐦 [Instagram]([https://twitter.com/seu_perfil_twitter](https://www.instagram.com/https.carvalhogui/))
-- 🌐 [Replit]([https://seu-portfolio.com](https://replit.com/@LUISGUILHERME56))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-bbb584215/)
+- 🐦 [Instagram](https://www.instagram.com/https.carvalhogui/)
+- 🌐 [Replit](https://replit.com/@LUISGUILHERME56)
 
 ## 🚀 Projetos em Destaque
 
