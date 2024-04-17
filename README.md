@@ -25,9 +25,9 @@ Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de En
 
 
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiudy&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dracula)](https://github.com/seu-username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiudy&layout=compact&theme=dracula)](https://github.com/seu-username/github-readme-stats)
 
 ## Tecnologias que Utilizo 💻
 
