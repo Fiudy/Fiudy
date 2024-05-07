@@ -23,7 +23,7 @@ Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de En
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.carvalhogui/)
 
 
-<img src="https://github.com/Fiudy/Fiudy/assets/89918329/ea4a89c6-5b7d-4851-8291-a8e7836b848e" alt="Nome da Imagem" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/Fiudy/Fiudy/assets/89918329/ea4a89c6-5b7d-4851-8291-a8e7836b848e" alt="Nome da Imagem" min-width="250px" max-width="250px" width="250px" align="right">
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiudy&show_icons=true&theme=dracula)
 
