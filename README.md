@@ -4,6 +4,8 @@
 
 Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de Engenharia de Software. Atualmente, estou cursando Engenharia de Software e explorando o vasto mundo do desenvolvimento de software.
 
+<img src="https://github.com/Fiudy/Fiudy/assets/89918329/ea4a89c6-5b7d-4851-8291-a8e7836b848e" alt="Nome da Imagem" min-width="300px" max-width="300px" width="300px" align="right">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Linguagens e Tecnologias
 
 - 💻 Conhecimento sólido em Java, Python, JavaScript e SQL
