@@ -6,9 +6,9 @@ Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de En
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Linguagens e Tecnologias
 
-- 💻 Conhecimento sólido em Java, Python, JavaScript e SQL
-- 🌐 Desenvolvimento web com HTML, CSS, JSP/SERVLET e JavasScript
-- 📱 Experiência em desenvolvimento mobile com Android e Flutter.
+- 💻 Conhecimento sólido em Java, Python, JavaScript, Typescript, node.js e SQL
+- 🌐 Desenvolvimento web com HTML, CSS, JSP/SERVLET, React, JavasScript e Stencil.js 
+- 📱 Experiência em desenvolvimento mobile com Android e react native
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="35" height="35" />Formação Acadêmica
 
