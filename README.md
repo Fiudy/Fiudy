@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://codivatech.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:6D28D9,100:06B6D4&text=Guilherme%20Carvalho&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&animation=fadeIn" alt="Guilherme Carvalho — Software Engineer" />
+  <img width="100%" src="./assets/profile-header.svg" alt="Guilherme Carvalho — Software Engineer" />
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=760&lines=Engenharia+de+software+orientada+a+produto;Web%2C+mobile%2C+APIs+e+bancos+de+dados;Solu%C3%A7%C3%B5es+escal%C3%A1veis+com+foco+em+qualidade)](https://git.io/typing-svg)
@@ -116,4 +116,4 @@ Objetivo       Criar software útil, confiável e preparado para evoluir
   <img src="https://komarev.com/ghpvc/?username=Fiudy&style=flat-square&color=06B6D4&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0F172A,50:6D28D9,100:06B6D4&section=footer" alt="Rodapé" />
+<img width="100%" src="./assets/profile-footer.svg" alt="Rodapé em degradê" />

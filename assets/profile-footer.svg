@@ -1,0 +1,10 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer" x1="0" y1="45" x2="1200" y2="45" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 36C170 82 310 4 490 37C680 72 824 15 962 29C1060 39 1134 60 1200 48V90H0V36Z" fill="url(#footer)"/>
+</svg>
