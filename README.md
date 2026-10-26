@@ -4,7 +4,7 @@
   <img width="100%" src="./assets/profile-header.svg" alt="Guilherme Carvalho — Software Engineer" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=760&lines=Engenharia+de+software+orientada+a+produto;Web%2C+mobile%2C+APIs+e+bancos+de+dados;Solu%C3%A7%C3%B5es+escal%C3%A1veis+com+foco+em+qualidade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=760&lines=Product-minded+software+engineering;Web%2C+mobile%2C+APIs%2C+and+data;Building+reliable+software+that+scales)](https://git.io/typing-svg)
 
 [![Codiva Tech](https://img.shields.io/badge/Codiva_Tech-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codivatech.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-bbb584215/)
@@ -15,24 +15,24 @@
 
 ## `> whoami`
 
-Sou **Engenheiro de Software formado pela Universidade Católica do Salvador (UCSAL)**, com atuação no desenvolvimento de aplicações **web, mobile e soluções full-stack**. Transformo requisitos de negócio em produtos digitais funcionais, combinando fundamentos de engenharia, experiência do usuário e decisões técnicas sustentáveis.
+I am a **Software Engineer with a bachelor's degree from Universidade Católica do Salvador (UCSAL)**, focused on building production-ready **web, mobile, and full-stack products**. I turn business requirements into maintainable systems by combining sound engineering, thoughtful user experiences, and pragmatic technical decisions.
 
-Na [Codiva Tech](https://codivatech.com), trabalho na construção de soluções sob medida — da concepção da arquitetura à entrega — com atenção à qualidade do código, desempenho, manutenibilidade e evolução do produto.
+At [Codiva Tech](https://codivatech.com), I design and deliver custom digital solutions end to end — from technical discovery and architecture to implementation and continuous product evolution. My work is guided by clean interfaces, explicit trade-offs, performance, and long-term maintainability.
 
 ```text
-Foco atual     Web moderno, mobile e integração de sistemas
-Especialidade  Desenvolvimento full-stack orientado a produto
-Formação       Bacharelado em Engenharia de Software — UCSAL
-Objetivo       Criar software útil, confiável e preparado para evoluir
+Current focus  Modern web, mobile, APIs, and system integration
+Core strength  Product-minded full-stack development
+Education      B.Sc. in Software Engineering — UCSAL
+Goal           Build useful, reliable software designed to evolve
 ```
 
-## Engenharia & desenvolvimento
+## Engineering profile
 
-- **Front-end:** interfaces responsivas, componentização e aplicações modernas com React, Next.js e Tailwind CSS
-- **Back-end:** serviços, regras de negócio, APIs REST e integração entre sistemas com Node.js, Java e Python
-- **Mobile:** aplicações multiplataforma com Flutter e desenvolvimento para Android
-- **Dados:** modelagem, consultas e persistência com SQL e Oracle Database
-- **Qualidade:** código limpo, separação de responsabilidades, versionamento com Git e evolução contínua da arquitetura
+- **Front end:** responsive interfaces, reusable component systems, and modern applications with React, Next.js, and Tailwind CSS
+- **Back end:** business logic, REST APIs, and service integration using Node.js, Java, and Python
+- **Mobile:** cross-platform application development with Flutter and native Android experience
+- **Data:** relational modeling, efficient queries, and persistence with SQL and Oracle Database
+- **Engineering practices:** clean code, separation of concerns, Git-based workflows, performance, and maintainable architecture
 
 ## Tech stack
 
@@ -55,7 +55,7 @@ Objetivo       Criar software útil, confiável e preparado para evoluir
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Dados & ferramentas
+### Data & tooling
 
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,33 +65,33 @@ Objetivo       Criar software útil, confiável e preparado para evoluir
 
 </div>
 
-## Produtos em produção
+## Selected work
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">No Roteiro</h3>
-      <p align="center">Produto web desenvolvido com foco em navegação fluida, responsividade e experiência do usuário.</p>
-      <p align="center"><a href="https://noroteiro.com"><strong>Acessar produto →</strong></a></p>
+      <p align="center">A smart travel-planning platform offering personalized itineraries, local recommendations, maps, accommodations, and cultural discovery.</p>
+      <p align="center"><a href="https://noroteiro.com"><strong>Explore the product →</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Vivau</h3>
-      <p align="center">Plataforma digital construída com uma experiência moderna, acessível e orientada ao usuário.</p>
-      <p align="center"><a href="https://vivau.com.br"><strong>Acessar produto →</strong></a></p>
+      <p align="center">A digital product built around a clear, responsive, and user-centered experience across devices.</p>
+      <p align="center"><a href="https://vivau.com.br"><strong>Explore the product →</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Consciência Colaborativa</h3>
-      <p align="center">Solução entregue para cliente, traduzindo identidade, propósito e requisitos de negócio em presença digital.</p>
-      <p align="center"><a href="https://conscienciacolaborativa.com.br"><strong>Acessar projeto →</strong></a></p>
+      <p align="center">A client project that translates brand purpose and business requirements into a cohesive digital presence.</p>
+      <p align="center"><a href="https://conscienciacolaborativa.com.br"><strong>View the project →</strong></a></p>
     </td>
   </tr>
 </table>
 
-## GitHub analytics
+## GitHub activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fiudy&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&ring_color=22D3EE" alt="Estatísticas do GitHub de Guilherme Carvalho" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiudy&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8" alt="Linguagens mais utilizadas por Guilherme Carvalho" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fiudy&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&ring_color=22D3EE" alt="Guilherme Carvalho's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiudy&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8" alt="Guilherme Carvalho's most-used languages" />
 </div>
 
 ## Contribution graph
@@ -100,20 +100,20 @@ Objetivo       Criar software útil, confiável e preparado para evoluir
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiudy/Fiudy/gh-pages/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiudy/Fiudy/gh-pages/github-contribution-grid-snake.svg">
-    <img width="100%" alt="Animação das contribuições de Guilherme Carvalho" src="https://raw.githubusercontent.com/Fiudy/Fiudy/gh-pages/github-contribution-grid-snake.svg">
+    <img width="100%" alt="Animated contribution graph for Guilherme Carvalho" src="https://raw.githubusercontent.com/Fiudy/Fiudy/gh-pages/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <strong>Tem um desafio técnico ou produto para tirar do papel?</strong>
+  <strong>Have a technical challenge or a product worth building?</strong>
   <br><br>
-  <a href="https://codivatech.com"><strong>Conheça a Codiva Tech</strong></a>
+  <a href="https://codivatech.com"><strong>Discover Codiva Tech</strong></a>
   &nbsp;•&nbsp;
-  <a href="mailto:luisguilherme.carvalho@ucsal.edu.com"><strong>Vamos conversar</strong></a>
+  <a href="mailto:guilherme_oliveira404@hotmail.com"><strong>Let's talk</strong></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Fiudy&style=flat-square&color=06B6D4&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Fiudy&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
-<img width="100%" src="./assets/profile-footer.svg" alt="Rodapé em degradê" />
+<img width="100%" src="./assets/profile-footer.svg" alt="Gradient footer" />
