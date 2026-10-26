@@ -1,54 +1,101 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jaro&size=32&pause=1000&color=F71F5B&background=FFFFFF00&random=false&width=435&lines=%F0%9F%91%8B+Bem-vindo+ao+meu+Perfil!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="35" height="35" /> Sobre Mim
+<a href="https://codivatech.com">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:6D28D9,100:06B6D4&text=Guilherme%20Carvalho&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" alt="Guilherme Carvalho — Software Engineer" />
+</a>
 
-Olá, sou Guilherme Carvalho, um apaixonado por programação e entusiasta de Engenharia de Software. Atualmente, estou cursando Engenharia de Software e explorando o vasto mundo do desenvolvimento de software.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=720&lines=Transformando+ideias+em+produtos+digitais.;Construindo+experi%C3%AAncias+web+e+mobile.;Clean+code%2C+tecnologia+e+impacto+real.)](https://git.io/typing-svg)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Linguagens e Tecnologias
+[![Website](https://img.shields.io/badge/Codiva_Tech-Visitar_site-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codivatech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-bbb584215/)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.carvalhogui/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisguilherme.carvalho@ucsal.edu.com)
 
-- 💻 Conhecimento sólido em Java, Python, JavaScript, Typescript, node.js e SQL
-- 🌐 Desenvolvimento web com HTML, CSS, JSP/SERVLET, React, JavasScript e Stencil.js 
-- 📱 Experiência em desenvolvimento mobile com Android e react native
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="35" height="35" />Formação Acadêmica
+## Sobre mim
 
-- 🎓 Estudante de Engenharia de Software na Universidade Católica de Salvador.
-- Programação Full Stack na Infinity School
+Sou estudante de **Engenharia de Software** e desenvolvedor apaixonado por transformar desafios em produtos digitais úteis, rápidos e bem construídos. Atuo entre o **front-end, back-end e mobile**, sempre buscando unir código de qualidade, experiência do usuário e impacto real.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Vamos Conectar!
+- Desenvolvendo soluções web e mobile na [Codiva Tech](https://codivatech.com)
+- Engenharia de Software na Universidade Católica do Salvador
+- Formação Full Stack pela Infinity School
+- Interesse em arquitetura de software, produtos digitais e novas tecnologias
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-bbb584215/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisguilherme.carvalho@ucsal.edu.com)
-[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@LUISGUILHERME56)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.carvalhogui/)
+## Stack
 
+<div align="center">
 
-<img src="https://github.com/Fiudy/Fiudy/assets/89918329/ea4a89c6-5b7d-4851-8291-a8e7836b848e" alt="Nome da Imagem" min-width="250px" max-width="250px" width="250px" align="right">
+### Front-end
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiudy&show_icons=true&theme=dracula)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiudy&layout=compact&theme=dracula)](https://github.com/seu-username/github-readme-stats)
+### Back-end, mobile e dados
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="35" height="35" /> Tecnologias que Utilizo 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div><br/>
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="35" height="35" /> Projetos em Destaque
+## Projetos em destaque
 
-- [Game em Java](https://github.com/Fiudy/Trabalho-POOAvancado.git): Uma versão refatorada de um jogo de naves em java.
-- [App em Desenvolvimento](https://github.com/Fiudy/Aplicativo.git): Um app feito no android studio, cujo tem o objetivo de monitorar os exercícios do Usuário (Contém API com Google Maps)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">No Roteiro</h3>
+      <p align="center">Plataforma digital criada para transformar ideias e experiências em uma jornada simples e acessível.</p>
+      <p align="center"><a href="https://noroteiro.com"><strong>Conhecer projeto →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Vivau</h3>
+      <p align="center">Produto digital com foco em oferecer uma experiência moderna, fluida e centrada nas pessoas.</p>
+      <p align="center"><a href="https://vivau.com.br"><strong>Conhecer projeto →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Consciência Colaborativa</h3>
+      <p align="center">Projeto desenvolvido para cliente, conectando propósito, colaboração e presença digital.</p>
+      <p align="center"><a href="https://conscienciacolaborativa.com.br"><strong>Conhecer projeto →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="35" height="35" /> Sempre Aprendendo
+## GitHub em números
 
-Estou sempre explorando novas tecnologias e frameworks. Se você tem alguma sugestão ou projeto interessante, adoraria ouvir sobre isso!
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fiudy&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&ring_color=22D3EE" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiudy&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8" alt="Linguagens mais utilizadas" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jaro&size=23&pause=1000&color=F71F5B&background=FFFFFF00&random=false&width=435&lines=Espero+que+tenha+gostado!)](https://git.io/typing-svg)
+## Minhas contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiudy/Fiudy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiudy/Fiudy/output/github-contribution-grid-snake.svg">
+    <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/Fiudy/Fiudy/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <strong>Vamos construir algo incrível juntos?</strong>
+  <br><br>
+  <a href="https://codivatech.com">codivatech.com</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:luisguilherme.carvalho@ucsal.edu.com">Entre em contato</a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Fiudy&style=flat-square&color=06B6D4&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0F172A,45:6D28D9,100:06B6D4&section=footer" width="100%" alt="Rodapé" />
